@@ -1,6 +1,6 @@
 colorscheme slate
 
-set hidden relativenumber hlsearch smartcase incsearch number noswapfile nobackup termguicolors smartindent foldmethod=indent
+set hidden relativenumber hlsearch smartcase incsearch number noswapfile nobackup termguicolors smartindent
 
 nnoremap ; :
 nnoremap : ;
